@@ -1,0 +1,39 @@
+============================================================
+RAPPORT DE VÉRIFICATION DES CONNECTIVITÉS CURSOR AI
+============================================================
+Date: 2025-09-13 20:06:58
+Hostname: GL1162BY
+
+🚨 PROBLÈMES DÉTECTÉS:
+------------------------------
+
+📋 SSL:
+  🟡 Problèmes de certificats SSL: github.com: timed out; api.github.com: timed out; openai.com: timed out; cursor.sh: timed out
+     Timestamp: 2025-09-13 20:06:46
+
+📋 OPENAI API:
+  🟡 Status code inattendu: 403
+     Timestamp: 2025-09-13 20:06:53
+
+💡 RECOMMANDATIONS:
+--------------------
+1. Vérifiez la date/heure de votre système
+2. Mettez à jour les certificats racine de votre système
+3. Vérifiez si OpenAI n'est pas bloqué par votre firewall
+4. Certains pays/réseaux bloquent l'accès à OpenAI
+
+📊 ÉTAT DES SERVICES:
+--------------------
+  ✅ Résolution DNS
+  ✅ Connectivité Internet
+  ❌ Certificats SSL
+  ✅ API GitHub
+  ❌ API OpenAI
+  ❌ Services Cursor
+
+🔧 CONFIGURATION PROXY:
+  HTTP: http://10.146.229.179:80
+  HTTPS: http://10.146.229.179:80
+  Fonctionnel: ✅
+
+============================================================

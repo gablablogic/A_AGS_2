@@ -1,0 +1,8 @@
+autogen-agentchat
+autogen-ext[openai,azure]
+autodocstring
+tinydb
+pandas
+numpy
+pyautogen forget it
+feedparser # to parse rss feed.  GRDF proky redirects rss feeds to html

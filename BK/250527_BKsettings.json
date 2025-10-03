@@ -1,0 +1,19 @@
+{"update.enableWindowsBackgroundUpdates": false,
+"update.showReleaseNotes": false,
+"update.mode": "none",
+"telemetry.enableCrashReporter": false,
+"telemetry.enableTelemetry": false,
+"markdown-mermaid.darkModeTheme": "forest",
+"git.openRepositoryInParentFolders": "never",
+
+"http.proxyAuthorization": null,
+"http.proxyStrictSSL": false,
+"http.noProxy": [
+        "localhost",
+        "127.0.0.1"
+    ],
+    "github.copilot.advanced.debug.useElectronFetcher": true,
+  "github.copilot.advanced.debug.useNodeFetcher": false,
+  "github.copilot.advanced.debug.useNodeFetchFetcher": false
+}
+}

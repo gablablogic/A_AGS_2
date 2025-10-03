@@ -1,0 +1,9 @@
+pip
+openai
+jupyterlab
+python-dotenv
+numpy
+autogenstudio==0.4.2.2
+autogen-agentchat==0.5.*
+autogen-ext[openai]
+autogen-ext[magentic-one]
